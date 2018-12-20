@@ -1,4 +1,4 @@
-# Problem 5: Sum square difference
+# Problem 5: Smallest multiple
 
 [Problem write up](https://projecteuler.net/problem=5)
 
